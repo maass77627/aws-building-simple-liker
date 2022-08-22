@@ -8,20 +8,13 @@
 
 ## Introduction
 
-Remember when we started this exploration of the "Simple Liker" application?
-You might not have been sure that you would make it to this point, but you
-have. Right now you should have the information needed to create a basic web
-application!
-
-Your goal is to implement the "liking" functionality of "Simple Liker." As a
-reminder, the final product should look something like this:
+Your goal is to implement the "liking" functionality of "Simple Liker." The final 
+product should look something like this:
 
 ![Screenshot Final](https://curriculum-content.s3.amazonaws.com/fewpjs/fewpjs-build-the-example/finished_product_ss.png)
 
 The focus of this lab is the JavaScript code. You should only need to make one
-change to the HTML, and no changes to the CSS file.
-
-You might be tempted to look back at previous code, but don't. Use your
+change to the HTML, and no changes to the CSS file. Use your
 knowledge and documentation from the internet (if needed), to build the
 application.
 
