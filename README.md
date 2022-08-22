@@ -13,6 +13,8 @@ product should look something like this:
 
 ![Screenshot Final](https://curriculum-content.s3.amazonaws.com/fewpjs/fewpjs-build-the-example/finished_product_ss.png)
 
+![Screenshot Like](https://curriculum-content.s3.amazonaws.com/fewpjs/fewpjs-stitching-together-the-three-pillars/three-pillars-02.gif)
+
 The focus of this lab is the JavaScript code. You should only need to make one
 change to the HTML, and no changes to the CSS file. Use your
 knowledge and documentation from the internet (if needed), to build the
