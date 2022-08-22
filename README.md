@@ -13,6 +13,8 @@ product should look something like this:
 
 ![Screenshot Final](https://curriculum-content.s3.amazonaws.com/fewpjs/fewpjs-build-the-example/finished_product_ss.png)
 
+When clicking on the empty heart, the app should act something like this: 
+
 ![Screenshot Like](https://curriculum-content.s3.amazonaws.com/fewpjs/fewpjs-stitching-together-the-three-pillars/three-pillars-02.gif)
 
 The focus of this lab is the JavaScript code. You should only need to make one
